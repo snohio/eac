@@ -6,12 +6,12 @@
 
 ## Basics
 
-Mike Butler
-snohio@gmail.com
-Sr. Sales Engineer
-[Twitter](https://twitter.com/snohio)
-[LinkedIn](https://www.linkedin.com/in/mike-butler-6401634/)
-Orlando, FL
+- Mike Butler
+- snohio@gmail.com
+- Sr. Sales Engineer / Progress Chef
+- [Twitter](https://twitter.com/snohio)
+- [LinkedIn](https://www.linkedin.com/in/mike-butler-6401634/)
+- Orlando, FL
 
 ## Bio
 
