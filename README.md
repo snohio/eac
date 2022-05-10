@@ -1,6 +1,6 @@
 # eac
 
-Everything as Code Presentation for DevOpsDays Raleigh
+Everything as Code Presentation for Orlando Devs
 
 ## Concept
 
