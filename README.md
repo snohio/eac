@@ -1,6 +1,6 @@
 # eac
 
-Everything as Code Presentation for Orlando Devs
+Everything as Code Presentation for Orlando Codecamp
 
 ## Concept
 
